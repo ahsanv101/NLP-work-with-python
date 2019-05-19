@@ -1,0 +1,2 @@
+Code for positional indexing. 
+The function takes a phrase and search in a given collection of documents and must return the documents contaning the phrase and the lines containing it. The phrase must be atleast 3-10 words long. The collection is of 10 documents.
